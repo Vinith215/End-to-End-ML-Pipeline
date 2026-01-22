@@ -55,17 +55,17 @@ curl -X POST "[http://127.0.0.1:8000/predict](http://127.0.0.1:8000/predict)" \
 
 To serve this on AWS App Runner or ECS:
 
-1.Build the Image:
+**1.Build the Image:**
 
 docker build -t medical-churn-api .
 
 
-2.Run Locally (Test):
+**2.Run Locally (Test):**
 
 docker run -p 8000:8000 medical-churn-api
 
 
-3.Deploy:
+**3.Deploy:**
 
 Push to AWS ECR.
 

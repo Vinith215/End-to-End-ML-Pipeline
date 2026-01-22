@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Projects/End-to-End%20ML%20Pipeline/mlruns/926736727560381303/models/m-f0d32b98993f4b748104523160d0e9c1/artifacts
+creation_timestamp: 1769118159907
+experiment_id: '926736727560381303'
+last_updated_timestamp: 1769118173094
+model_id: m-f0d32b98993f4b748104523160d0e9c1
+model_type: null
+name: model
+source_run_id: 8f2dbcae8df34fae88c54139394c0454
+status: 2
+status_message: null

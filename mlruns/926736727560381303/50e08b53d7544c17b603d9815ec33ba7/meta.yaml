@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/End-to-End%20ML%20Pipeline/mlruns/926736727560381303/50e08b53d7544c17b603d9815ec33ba7/artifacts
+end_time: 1769118645324
+entry_point_name: ''
+experiment_id: '926736727560381303'
+lifecycle_stage: active
+run_id: 50e08b53d7544c17b603d9815ec33ba7
+run_name: lyrical-cub-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769118633420
+status: 3
+tags: []
+user_id: guntu

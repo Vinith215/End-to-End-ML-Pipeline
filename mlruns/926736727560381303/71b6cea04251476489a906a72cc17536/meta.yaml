@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/End-to-End%20ML%20Pipeline/mlruns/926736727560381303/71b6cea04251476489a906a72cc17536/artifacts
+end_time: 1769117389571
+entry_point_name: ''
+experiment_id: '926736727560381303'
+lifecycle_stage: active
+run_id: 71b6cea04251476489a906a72cc17536
+run_name: stately-snake-134
+run_uuid: 71b6cea04251476489a906a72cc17536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769117382813
+status: 3
+tags: []
+user_id: guntu

@@ -1,0 +1,10 @@
+digest: 41fcc7d4
+name: dataset
+profile: '{"num_rows": 10, "num_elements": 40}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "avg_img_mean", "required":
+  true}, {"type": "double", "name": "avg_img_contrast", "required": true}, {"type":
+  "integer", "name": "primary_modality", "required": true}, {"type": "long", "name":
+  "scan_count", "required": true}]}'
+source: '{"tags": {"mlflow.user": "guntu", "mlflow.source.name": "train_pipeline.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "b6bfc67285804f423d0e2aee747c58104aae7bc7"}}'
+source_type: code

@@ -1,0 +1,30 @@
+artifact_path: file:///C:/Projects/End-to-End%20ML%20Pipeline/mlruns/926736727560381303/models/m-169fb6c93c65415795543cd0d849a988/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.12.4
+is_signature_from_type_hint: false
+mlflow_version: 3.8.1
+model_id: m-169fb6c93c65415795543cd0d849a988
+model_size_bytes: 3094
+model_uuid: m-169fb6c93c65415795543cd0d849a988
+prompts: null
+run_id: 50e08b53d7544c17b603d9815ec33ba7
+signature:
+  inputs: '[{"type": "double", "name": "avg_img_mean", "required": true}, {"type":
+    "double", "name": "avg_img_contrast", "required": true}, {"type": "integer", "name":
+    "primary_modality", "required": true}, {"type": "long", "name": "scan_count",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-01-22 21:50:34.706642'
